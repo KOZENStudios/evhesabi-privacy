@@ -1,13 +1,11 @@
 Privacy Policy
+<br>
 Last updated: May 7, 2026
-
+<br>
 At Ev Hesabı, we value your privacy. This Privacy Policy explains what information may be collected when you use the Ev Hesabı app, how that information is used, stored, and protected.
-
 1. Information We Collect
 Ev Hesabı may collect and process certain information to help users manage shared household expenses, payments, and household tasks with their roommates.
-
 The information we may collect includes:
-
 User name or nickname,
 Email address,
 User ID,
@@ -20,9 +18,7 @@ Adding photos is completely optional. Users are not required to upload or attach
 
 2. How We Use Information
 The collected information is used only to provide the core features of the app and improve the user experience.
-
 We may use information to:
-
 Calculate shared expenses,
 Show balances between roommates,
 Create and manage household groups,
@@ -33,19 +29,15 @@ User data is not sold, rented, or shared with third parties for advertising purp
 
 3. Firebase and Third-Party Services
 Ev Hesabı may use Google Firebase services to operate and improve the app.
-
 Firebase may be used for user account creation, authentication, secure data storage, photo uploads, error tracking, or improving app performance.
-
 Depending on the Firebase services used, some data may be processed and stored on Google servers. Such data is subject to Firebase’s privacy and security practices.
 
 4. Photos and Media
 The app may allow users to optionally add photos to expense or task records. Photo access only occurs with the user’s permission.
-
 Ev Hesabı does not access the user’s photo library without permission and does not collect photos that the user has not selected. Photos added by the user may be stored through Firebase to provide the related app feature.
 
 5. Data Storage
 User data may be stored for as long as necessary to provide the app’s features.
-
 Users may delete their records within the app. For account or data deletion requests, users may contact us.
 
 6. Data Security
@@ -72,15 +64,14 @@ Email: studioskozen@gmail.com
 <br>
 
 Gizlilik Politikası
+<br>
 Son güncelleme: 7 Mayıs 2026
-
+<br>
 Ev Hesabı olarak kullanıcılarımızın gizliliğine önem veriyoruz. Bu Gizlilik Politikası, Ev Hesabı uygulamasını kullandığınızda hangi bilgilerin toplandığını, bu bilgilerin nasıl kullanıldığını, nasıl saklandığını ve nasıl korunduğunu açıklar.
 
 1. Toplanan Bilgiler
 Ev Hesabı, kullanıcıların ev arkadaşlarıyla ortak giderleri, ödemeleri ve ev görevlerini takip edebilmesi için bazı bilgileri toplayabilir ve işleyebilir.
-
 Toplanabilecek bilgiler şunları içerebilir:
-
 Kullanıcı adı veya takma ad,
 E-posta adresi,
 Kullanıcı kimliği,
@@ -93,9 +84,7 @@ Fotoğraf ekleme özelliği tamamen isteğe bağlıdır. Kullanıcılar fotoğra
 
 2. Bilgilerin Kullanım Amacı
 Toplanan bilgiler yalnızca uygulamanın temel özelliklerini sağlamak ve kullanıcı deneyimini iyileştirmek amacıyla kullanılır.
-
 Bu amaçlar şunlardır:
-
 Ortak giderleri hesaplamak,
 Ev arkadaşları arasındaki borç ve alacak dengesini göstermek,
 Ev grupları oluşturmak ve yönetmek,
@@ -106,19 +95,15 @@ Kullanıcı verileri satılmaz, kiralanmaz veya üçüncü taraflarla reklam ama
 
 3. Firebase ve Üçüncü Taraf Hizmetler
 Ev Hesabı, uygulamanın çalışması için Google Firebase hizmetlerini kullanabilir.
-
 Firebase; kullanıcı hesabı oluşturma, kimlik doğrulama, verilerin güvenli şekilde saklanması, fotoğraf yükleme, hata takibi veya uygulama performansının iyileştirilmesi gibi amaçlarla kullanılabilir.
-
 Kullanılan Firebase servislerine bağlı olarak bazı veriler Google sunucularında işlenebilir ve saklanabilir. Bu veriler Firebase’in gizlilik ve güvenlik uygulamalarına tabidir.
 
 4. Fotoğraflar ve Medya
 Uygulama, kullanıcı isterse gider veya görev kayıtlarına fotoğraf eklemesine izin verebilir. Fotoğraf erişimi yalnızca kullanıcının izniyle gerçekleşir.
-
 Ev Hesabı, kullanıcının fotoğraf galerisine izinsiz erişmez ve kullanıcının seçmediği fotoğrafları toplamaz. Eklenen fotoğraflar, uygulamanın ilgili özelliğini sağlamak amacıyla Firebase üzerinde saklanabilir.
 
 5. Verilerin Saklanması
 Kullanıcı verileri, uygulamanın özelliklerini sunmak için gerekli olduğu sürece saklanabilir.
-
 Kullanıcılar uygulama içindeki kayıtlarını silebilir. Hesap veya veri silme talepleri için bizimle iletişime geçebilirler.
 
 6. Veri Güvenliği
